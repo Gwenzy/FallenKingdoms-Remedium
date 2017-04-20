@@ -1,0 +1,9 @@
+name: FallenKindoms
+author: Thaksin
+version: 0.1
+main: fr.gwenzy.fallenkingdoms.Main
+commands:
+    fk:
+        usage: /fk
+        description: 
+depend: [WorldEdit, WorldGuard]
